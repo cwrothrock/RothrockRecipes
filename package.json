@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/cwrothrock/RothrockRecipes#readme",
   "dependencies": {
+    "browserify": "^16.5.1",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
     "node-postgres": "^0.1.4",
     "pg": "^8.0.3"
   }
